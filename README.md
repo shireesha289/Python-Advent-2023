@@ -2,5 +2,5 @@
 Learning Python Daily
 
 ### Day1
-    - strings
-    - conditions
+    - Variables
+    - Datatypes
